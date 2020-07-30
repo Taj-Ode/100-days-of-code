@@ -9,3 +9,4 @@
 **Link(s) to work:** 
 1. [Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/exercises/arrays_2.html), 
 2. [Progate](https://progate.com/languages/rails5)
+3. [Twitter Update](https://twitter.com/Taj_Ode/status/1288949376019320839)
