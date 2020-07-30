@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: July 30, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I am a novice coder. I worked on the exercises on arrays and started Propagates course for Ruby on Rails.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I have been dragging on the RubyMonstas for beginners course for a while now that the simplest excercises take me longer than what they should. I hope with this challenge I can "refresh" my mind and become focused so that I can advance. I don't want to get stuck with tutorials, going around in circles. It shouldn't take me longer than 4 days to finish the beginners course by Ruby Monstas if I stay committed to this challenge of minimum an hour coding a day. I'm looking foward to start their web development course soon. Progate is a new platform I started trying out today... It has a bit of a different teaching style that I still am not sure if I like/works for me. I'll see if I will stick to them as I go along.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** 
+1. [RubyMonstas](http://ruby-for-beginners.rubymonstas.org/exercises/arrays_2.html), 
+2. [Propagate](https://progate.com/languages/rails5)
