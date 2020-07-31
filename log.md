@@ -10,3 +10,15 @@
 1. [Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/exercises/arrays_2.html), 
 2. [Progate](https://progate.com/languages/rails5)
 3. [Twitter Update](https://twitter.com/Taj_Ode/status/1288949376019320839)
+
+### Day 1: July 31, 2020
+
+**Today's Progress**: I worked on the exercises on nested arrays and hashes with Ruby Monstas and started the Odin projects' course for Ruby on Rails.
+
+**Thoughts:** I struggled with a few concepts regarding creating columns from multidimensional arrays. Learned new methods such as .ljust and .transpose. I will return to these same excercises tomorrow with fresh eyes and just read through the code again. I find that it helps me understand what is going on when I try read my code like it's just an instruction manual in english. Otherwise I might make a gist to see if someone will help me breakdown the code. Next I started the Ruby on Rails course from The Odin Project. I am only in the Introduction chapter and struggling alot with the installation parts. I think this says I should take time to read more about how the command prompt actually works and how to understand error codes from there. Nevertheless, I finally turned to The Odin Project's forum page and asked for help. Hopefully I can get some guidance in the right direction to move on tomorrow. Furthermore, I have been reading through their page and my instictual feeling is that The Odin Project is more suitable for me than Progate. It's the teaching style that I prefer. Progate's slides/text message canvas approach is a little distracting for me opposed to just reading text like you would in a good old text book, which is more like Odin's style. 
+
+**Link(s) to work:**
+1. [Nested Arrays with Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/exercises/nested_arrays.html)
+2. [Hashes with Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/exercises/hashes_2.html)
+3. [Prepairing for deployment with The Odin Project](https://www.theodinproject.com/lessons/preparing-for-deployment)
+4. [Twitter Update](https://twitter.com/Taj_Ode/status/1289345276537266176?s=20)
