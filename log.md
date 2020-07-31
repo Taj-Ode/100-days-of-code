@@ -11,7 +11,7 @@
 2. [Progate](https://progate.com/languages/rails5)
 3. [Twitter Update](https://twitter.com/Taj_Ode/status/1288949376019320839)
 
-### Day 1: July 31, 2020
+### Day 2: July 31, 2020
 
 **Today's Progress**: I worked on the exercises on nested arrays and hashes with Ruby Monstas and started the Odin projects' course for Ruby on Rails.
 
