@@ -41,3 +41,33 @@ At the moment I feel like I might be overwhelming myself here so to clarify the 
 4. [The Mailbox Text Formatter](http://ruby-for-beginners.rubymonstas.org/exercises/mailbox_text.html)
 5. [Hello, World!](https://exercism.io/tracks/ruby)
 6. [Twitter Update](https://twitter.com/Taj_Ode/status/1289728331114397696)
+
+### Day 4: August 2, 2020
+
+**Today's Progress**: I spent time learning about the differences between a web page, a web server, and a search engine.
+
+**Thoughts:** This is a delayed post as I have been quite overwhelmed the past few days. On Sunday I spent the evening learning about the differences mentioned about and felt a drop of "aaaaaaah" euphoria when I went onto safari on my phone and got the error message "Safari cannot open this page because the server is not responding" because I understood exactly what I was being told and how it worked. This day was short however something was learned!
+  
+**Link(s) to work:**
+1. [How does the web work?](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
+2. [Twitter Update](https://twitter.com/Taj_Ode/status/1290757584882933770)
+
+### Day 5: August 3, 2020
+
+**Today's Progress**: SKIPPED
+
+**Thoughts:** Unfortunately this day I didn't code. I finished work at 18:30 and had a comedy gig at 20:30 that I spent time "prepping" for after work. I say prepping because I was whining a lot while doing it because I actually didn't feel like going on stage that particular day but no way I could cancel last minute. Ended doing a lot of improv on jokes I roughly made up during the short prep time. 
+  
+**Link(s) to work:**
+1. [Twitter Update](https://twitter.com/Taj_Ode/status/1290760012923645954)
+
+### Day 6: August 4, 2020
+
+**Today's Progress**: Finished reading about the mechanism of the internet with The Odin Project and started one Excercise with Exercism.
+
+**Thoughts:** I particularly spent time understanding the connections between client units and servers as well as how the DNS works. It was very interesting to read about. DNS was a bit harder to digest so tomorrow I will read about it once more and try to explain it shortly to my roommate on thursday. The excercise I started today on Exercism has been fun so far, a little challenging to solve but I'm sure tomorrow I will be able to crack it. It has me practicing writing classes, methods and instantiating, all of which I need to practice a lot! Honestly, it's so much fun working with the TDD approach. Everytime I receive a new type of error, I know I am one step closer to solving the problem. I feel a jilt of excitement to continue and continue. This weekend I plan to touch base on regex and will take some time to read on TDD as well.
+  
+**Link(s) to work:**
+1. [Twitter Update](https://twitter.com/Taj_Ode/status/1290780468837847046)
+2. [How does the internet work?](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
+3. [Two Fer](https://exercism.io/)
