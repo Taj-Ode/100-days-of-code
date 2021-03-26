@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+**Exclaimer**: I started the first round July 30, 2020 but it was prematurely ended after day 6 as you can see. At the time I started studying physics which isn't the easiest subject for me so I just completely slacked at coding as I was. I will be starting my second attempt today though in a new repository.
+
 ### Day 1: July 30, 2020
 
 **Today's Progress**: I am a novice coder. I worked on the exercises on arrays and started Progate's course for Ruby on Rails.
